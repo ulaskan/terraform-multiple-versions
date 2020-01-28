@@ -7,7 +7,7 @@ The script will print out a menu and instructions should be easy to follow
 ```
 $ terraform version
 ```
-<br/><br/>
+<br/>
 
 ## This script:
 ```
@@ -16,11 +16,11 @@ $ terraform version
 3. removes an unwanted package;
 4. activates to an installed version on mac
 ```
-<br/><br/>
+<br/>
 
 ## Gotchas:
-> The script was intended to be simple single file script that can be run from anywhere. Therefore if you want to modify the script watch out for the cheat in the menu generation.
-<br/><br/>
+> The script was intended to be simple single file script that can be run from anywhere. Therefore if you want to modify the script watch out for the cheat in the menu generation.  
+<br/>
 
 ## Note:
 > The terraform versions older that 0.8.0 do not seem to working on Mac
